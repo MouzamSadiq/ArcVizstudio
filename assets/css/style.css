@@ -437,7 +437,9 @@ h6 {
   background-size: cover;
   position: relative;
 }
-
+#companyNameChar {
+  color: red;
+}
 #hero:before {
   content: "";
   background: rgba(0, 0, 0, 0.5);
