@@ -572,7 +572,10 @@ section {
   font-weight: 600;
   font-size: 26px;
 }
-
+.about img {
+  width: 100%;
+  height: 39rem;
+}
 .about .content ul {
   list-style: none;
   padding: 0;
