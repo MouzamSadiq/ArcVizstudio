@@ -620,6 +620,13 @@ section {
   font-weight: 700;
   color: #ed5b5b;
 }
+.why-us .box img {
+  width: 20%;
+  /* filter: grayscale(100); */
+  transition: all 0.4s ease-in-out;
+  display: inline-block;
+  padding: 15px 0;
+}
 
 .why-us .box h4 {
   font-size: 24px;
@@ -646,6 +653,10 @@ section {
 .why-us .box:hover p {
   color: #fff;
 }
+/* .why-us .box:hover img {
+  filter: none;
+  transform: scale(1.2);
+} */
 
 /*--------------------------------------------------------------
 # Clients
